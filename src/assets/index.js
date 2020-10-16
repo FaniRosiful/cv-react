@@ -1,0 +1,12 @@
+export { default as fb } from './icon/fb.png';
+export { default as ig } from './icon/ig.png';
+export { default as linked } from './icon/linkedin.png';
+export { default as cp } from './icon/cp.png';
+export { default as edu } from './icon/edu.png';
+export { default as exp } from './icon/exp.png';
+export { default as gmail } from './icon/gmail.png';
+export { default as prof } from './icon/prof.png';
+export { default as skil } from './icon/skil.png';
+export { default as tele } from './icon/tele.png';
+export { default as wa } from './icon/wa.png';
+export { default as ppp } from './icon/ppp.png';

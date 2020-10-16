@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+.App {
+  text-align: right;
+  background-color: #040331;
+}
+
+.header {
+  background-color: #040331;
+  margin-bottom: 0px;
+  border-color: white;
+  position: static;
+}
+.menu {
+  display: inline-block;
+  font-family: Kanit;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 36px;
+  text-align: center;
+  padding: 15px;
+  margin-left: 20px;
+  color: white;
+}
+
+.menu:hover {
+  background-color: white;
+  color: #040331;
+  font-weight: bolder;
+}
+
+/*Style Home*/
+.home{
+  background: #040331;
+  position: absolute;
+  width: 100%;
+}
+
+h1{
+  color: #00BFFB;
+  padding-left: 100px;
+  padding-top: 100px;
+}
+p{
+  color: white;
+  padding-left: 100px;
+}
+h2{
+  color: white;
+  padding-left: 100px;
+  padding-top: 200px;
+  position: relative;
+}
+.at{
+  color: #00BFFB;
+}
+.icon{
+  position: absolute;
+  width: 20px;
+  display: grid;
+  padding: 10px;
+  padding-top: 17px;
+  padding-left: 100px;
+}
+.akun{
+  color: white;
+  display: grid;
+  padding-left: 30px;
+  position: relative;
+  text-decoration: none;
+}
+.bc{
+  width: 700px;
+  position: absolute;
+  padding-left: 130px;
+  padding-top: 100px;
+  background-color: #040331;
+}
+.sosmed{
+  padding-top: 85px;
+}
+
+/*Style Profile*/
+.iconProf{
+  width: 80px;
+  padding: 10px;
+  padding-left: 130px;
+  text-align: center;
+}
+
+.flex-row {
+  display: flex;
+  padding-top: 25px;
+}
+.flex-column {
+  display: flex;
+  flex-direction: row;
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: right;
+}
+.card {
+  background-color: white;
+  color: black;
+  /*flex-basis: 100%;
+  position: static;
+  /*flex-direction:column ;*/
+  text-align: justify;
+  flex-basis: 100%;
+  padding: 30px;
+  margin: 20px;
+  box-shadow: 0 4px 8px 0 rgba(13, 1, 56, 0.822);
+  border-radius: 20px;
+}
+.bodyProfile{
+  background-color: #040331;
+  font-weight: bold;
+  font-family: kanit;
+}
+.cardP{
+  background-color: white;
+  color: black;
+  /*flex-basis: 100%;
+  position: static;
+  /*flex-direction:column ;*/
+  flex-basis: 60%;
+  padding: 30px;
+  margin: 20px;
+  box-shadow: 0 4px 8px 0 rgba(13, 1, 56, 0.822);
+  border-radius: 20px;
+}
+.qotd{
+  font-size: 50px;
+  text-align: right;
+  font-weight: bold;
+  font-family: kanit;
+}
+th{
+  color: #00BFFB;
+}
+.iconSet{
+  padding-top: 50px;
+  width: 100px;
+  position: absolute;
+  padding-left: 230px;
+}
+.tabel{
+
+  font-size: 30px;
+  padding-left: 400px;
+  padding-bottom: 00px;
+  font-weight: bold;
+  padding-top: 0px;
+  text-align: justify;
+}
+/*Style Contact*/
+.contact{
+  background-color: #040331;
+}
+h3{
+  color: white;
+  text-align: center;
+  font-size: 40px;
+}
+
+.cp{
+  width: 400px;
+  padding-top: 160px;
+  padding-left: 100px;
+}
+.contactMe{
+  text-align: center;
+  padding-left: 150px;
+}
+.contactMi{
+  color: #00BFFB;
+}
