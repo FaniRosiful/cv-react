@@ -1,6 +1,9 @@
 import React from 'react';
 import { fb, ig, linked, ppp } from '../assets';
+
+
 const Home = () => {
+  
   return (
     <body className="home">
       <div className="flex-row">

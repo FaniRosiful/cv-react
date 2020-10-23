@@ -1,8 +1,9 @@
 import React from 'react';
 import { cp, tele, wa, gmail } from '../assets'
+
 const Contact = () => {
   return (
-  <body className="contact">
+  <body className="contact" >
     <div className="flex-row">
       <div >
         <img className="cp" alt="ContactPerson" src={cp} />
